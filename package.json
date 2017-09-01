@@ -20,11 +20,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joeeames/trip-to-mars-typical.git"
-  },
-  "bugs": {
-    "url": "https://github.com/joeeames/trip-to-mars-typical/issues"
-  },
-  "homepage": "https://github.com/joeeames/trip-to-mars-typical#readme",
-  "description": ""
+    "url": "git+https://github.com/BenCook28/Pluralsight_NPM_Playbook.git"
+  }
+
 }
